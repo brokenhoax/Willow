@@ -1,0 +1,13 @@
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=root
+DB_PORT=8889
+DB_NAME=words_db
+
+response[0].definition
+
+DB_HOST=qbct6vwi8q648mrn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+DB_USER=yv6vgkeyveyrmamo
+DB_PASS=c0fyyrpob33m59kz
+DB_PORT=3306
+DB_NAME=cwjedrq12ymex33o
